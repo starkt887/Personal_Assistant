@@ -1,0 +1,7 @@
+{
+  "name": "Jarvis_College",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
