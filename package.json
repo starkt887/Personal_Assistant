@@ -12,6 +12,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@capacitor-community/speech-recognition": "^6.0.1",
     "@capacitor-community/text-to-speech": "^6.0.0",
     "@capacitor/app": "7.0.0",
     "@capacitor/core": "7.0.1",
