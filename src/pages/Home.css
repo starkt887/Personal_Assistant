@@ -1,0 +1,32 @@
+.home {
+  padding: 10px;
+}
+.home .chatlist {
+  padding-bottom: 010px;
+  height: 90%;
+  overflow-y: scroll;
+}
+.home ion-item.inputPanel{
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+}
+.home .inputPanel ion-button.inputButton{
+    height: 100%;
+    width:50px
+}
+.home ion-item.loader{
+    position: absolute;
+    bottom: 80px;
+    width: 100%;
+}
+.home .loader ion-button.stopButton{
+    --border-radius: 10px;
+    height: 50px;
+    width:50px
+}
+.home .loader ion-spinner.dots{
+
+    height: 50px;
+    width:50px
+}
