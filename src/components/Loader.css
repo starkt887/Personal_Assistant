@@ -1,0 +1,14 @@
+.content{
+   z-index: 999;
+    
+}
+.content .loaderContainer{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100%;
+}
+.content .loaderContainer .loader{
+    width: 50px;
+    height: 50px;
+}

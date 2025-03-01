@@ -1,0 +1,1 @@
+export interface IWhatsAppModal{ nameOrPhone: string | null; message: string | null }

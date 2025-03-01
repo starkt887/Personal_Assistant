@@ -1,0 +1,16 @@
+.lockscreen{
+padding:0
+}
+.lockscreen .content{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    height: 100%;
+}
+.lockscreen .content .loginButtonPanel{
+    display: flex;
+}
+.lockscreen .content .loginButtonPanel .btnlogin{
+    flex-grow: 1;
+}
